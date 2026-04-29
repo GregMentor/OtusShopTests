@@ -1,0 +1,40 @@
+# .NET / Visual Studio / Rider
+bin/
+obj/
+.vs/
+.vscode/
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+*.DotSettings.user
+
+# Cursor / AI tooling (local artifacts)
+.ai/
+.cursor/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.cache
+*.log
+
+# Test results / coverage
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+coverage/
+coverage.cobertura.xml
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+
+# OS / misc
+Thumbs.db
+Desktop.ini
+._*
+
